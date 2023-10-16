@@ -1,1 +1,2 @@
-# We are always deciding in terms if , else ...
+# Intro
+#### We are always deciding in terms if , else. We make this type of decission making as much deep as we can It makes our lives better and also the ml model. Intuitively we know what will be our first question when making decissions in real life but we don't know have that much idea in case of making Decission trees in machine learning
